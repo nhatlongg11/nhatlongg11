@@ -26,13 +26,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,react,nextjs,redux,html,css,sass,tailwind,java,figma,postman" alt="My Skills" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhatlongg11&show_icons=true&locale=en&theme=radical" alt="nhatlong11 stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatlongg11&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" height="150" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
